@@ -1,0 +1,26 @@
+{
+  "main_slides": 13,
+  "appendix_slides": 21,
+  "all_25_projects_present": true,
+  "source_v3_sha256": "358360fdd062e4a16ae34ac9aa7c6c90dbb3022b441d1cb91854c95b327578c6",
+  "original_v3_unchanged": true,
+  "no_BUILD_SCALE_in_main": true,
+  "LinkedIn_entries": 34,
+  "LinkedIn_conditional_entries": 5,
+  "LinkedIn_opportunities_separate": 2,
+  "fonts_in_pdf": [
+    "Montserrat-Bold",
+    "Montserrat-Regular",
+    "Nohemi-Bold",
+    "Nohemi-Regular"
+  ],
+  "semantic_review": [
+    "Intranet: no October launch, production review and possible supplier change retained.",
+    "LinkedIn business: Marketing; corporate France: Communication.",
+    "No invented numeric targets, dates or operational owners. Proposed measures/data access marked for validation.",
+    "Leytonienne S2: preparation May–June, publication end July outside FY.",
+    "Leadership: four capsules November–February plus mash-up around March 8.",
+    "Run channels only after deployment or actual launch.",
+    "All 34 slides visually reviewed; no font size reduced to fit content."
+  ]
+}
